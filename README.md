@@ -30,8 +30,8 @@ Développeur web passionné et étudiant en 3ème année d'Informatique de Gesti
 ### 1️⃣ **[Gestion de Congés](https://github.com/votreLienProjet)**
 - Un système de gestion des congés développé en PHP avec une architecture MVC, qui permet de gérer les demandes de congé en entreprise tout en respectant les règles de calcul (weekends et jours fériés exclus).
 
-### 2️⃣ **[Tourisme](https://github.com/votreLienProjet)**
-- Une plateforme Django complète pour la gestion des visiteurs, avec des fonctionnalités telles que l'inscription des touristes, la consultation de leurs informations et des options d'administration.
+### 2️⃣ **[Crédit et Paiement Échelonné](https://github.com/votreLienProjet)**
+- Le projet **Crédit et Paiement Échelonné** est une application Django permettant de gérer les crédits accordés aux clients et leurs paiements de manière échelonnée. Ce système permet de suivre l'état des crédits, les échéances de paiement, et d'assurer une gestion claire et efficace des garanties associées aux crédits.
 
 ---
 

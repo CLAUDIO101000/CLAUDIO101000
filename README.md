@@ -27,10 +27,10 @@ Développeur web passionné et étudiant en 3ème année d'Informatique de Gesti
 
 ## 🚀 Projets phares
 
-### 1️⃣ **[Gestion de Congés](https://github.com/votreLienProjet)**
+### 1️⃣ **[Gestion de Congés](https://github.com/CLAUDIO101000/Gestion-des-conges)**
 - Un système de gestion des congés développé en PHP avec une architecture MVC, qui permet de gérer les demandes de congé en entreprise tout en respectant les règles de calcul (weekends et jours fériés exclus).
 
-### 2️⃣ **[Crédit et Paiement Échelonné](https://github.com/votreLienProjet)**
+### 2️⃣ **[Crédit et Paiement Échelonné](https://github.com/CLAUDIO101000/credit-et-paiement-echelonne)**
 - Le projet **Crédit et Paiement Échelonné** est une application Django permettant de gérer les crédits accordés aux clients et leurs paiements de manière échelonnée. Ce système permet de suivre l'état des crédits, les échéances de paiement, et d'assurer une gestion claire et efficace des garanties associées aux crédits.
 
 ---

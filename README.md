@@ -39,6 +39,7 @@ Un développeur web passionné et étudiant en 3ème année d'Informatique de Ge
 
 - 📧 Email : [ranaivosonclaudio@gmail.com](mailto:ranaivosonclaudio@gmail.com)
 - 🌟 [Portfolio](https://claudio101000.github.io/portfolio-claudio/)
+- 📱 Téléphone : [+261 32 43 372 46](tel:+261324337246)
 
 ---
 

@@ -8,7 +8,7 @@ Un développeur web passionné et étudiant en 3ème année d'Informatique de Ge
 
 ## 🎓 Formation
 
-- **2023 - Présent :** Licence Professionnelle en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO)
+- **2023 - Présent :** En cours de Licence Professionnelle en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO)
 - **2022 - 2023 :** 2ème année en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO)
 - **2021 - 2022 :** 1ère année en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO)
 

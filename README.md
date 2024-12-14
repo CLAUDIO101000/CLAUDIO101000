@@ -19,6 +19,9 @@ Un développeur web passionné et étudiant en 3ème année d'Informatique de Ge
 - **Langages de programmation :** PHP, Python, WLanguage, C, C++
 - **Développement Web :** HTML, CSS, JavaScript, React, Vue.js
 - **Frameworks :** Laravel (PHP), Django (Python), Bootstrap
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 - **Base de données :** MySQL, PostgreSQL
 - **Systèmes d'exploitation :** Windows, Linux
 - **Autres :** Git, Préprocesseur CSS (SASS), Méthodes de modélisation (Merise, UML)

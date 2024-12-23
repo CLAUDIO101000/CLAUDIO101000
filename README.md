@@ -1,7 +1,5 @@
 # 🌟 Bienvenue sur mon profil GitHub !
 
-![Ingénieur Informaticien](https://media.tenor.com/images/3a1b2c4d5e6f7g8h9i0j/tenor.gif)
-
 ### 👨‍💻 Moi c'est **RANAIVOSON Nantenaina Claudio** !
 
 Un développeur web passionné et étudiant en 3ème année d'Informatique de Gestion, je suis dédié à la création de solutions numériques innovantes qui transforment les idées en expériences utilisateurs exceptionnelles. Mon parcours m'a permis de maîtriser des technologies modernes comme **HTML**, **CSS**, **JavaScript**, **PHP** et **Python**.

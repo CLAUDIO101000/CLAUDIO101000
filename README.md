@@ -89,4 +89,4 @@ Une application **Django** permettant de gérer les crédits accordés aux clien
 
 ---
 
-Merci pour votre visite ! 🎉
+# Merci pour votre visite ! 🎉

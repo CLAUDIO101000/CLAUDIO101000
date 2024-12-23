@@ -85,7 +85,7 @@ Une application **Django** permettant de gérer les crédits accordés aux clien
 ## 📫 Contact
 
 - 📧 Email : [ranaivosonclaudio@gmail.com](mailto:ranaivosonclaudio@gmail.com)
-- 📱 Téléphone : [+261 32 43 372 46](tel:+261324337246)
+- 📱 Téléphone : [+261324337246](tel:+261324337246)
 
 ---
 

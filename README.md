@@ -6,6 +6,10 @@ Un développeur web passionné et étudiant en 3ème année d'Informatique de Ge
 
 ---
 
+## 🌐 [Portfolio](https://claudio101000.github.io/portfolio-claudio/)
+
+---
+
 ## 🎓 Formation
 
 - **2023 - Présent :** En cours de Licence Professionnelle en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO)
@@ -74,7 +78,6 @@ Une application **Django** permettant de gérer les crédits accordés aux clien
 ## 📫 Contact
 
 - 📧 Email : [ranaivosonclaudio@gmail.com](mailto:ranaivosonclaudio@gmail.com)
-- 🌐 [Portfolio](https://claudio101000.github.io/portfolio-claudio/)
 - 📱 Téléphone : [+261 32 43 372 46](tel:+261324337246)
 
 ---

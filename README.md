@@ -1,7 +1,7 @@
 # 🌟 Bienvenue sur mon profil GitHub !
 
 <p align="center">
-![Développeur au travail](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Développeur au travail" />
 </p>
 
 ### 👨‍💻 Moi c'est **RANAIVOSON Nantenaina Claudio** !

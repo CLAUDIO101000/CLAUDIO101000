@@ -4,6 +4,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Développeur au travail" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Yk3lg9s68dOxl99Yyv/giphy.gif" alt="Animation saisie de texte" width="600" />
+</p>
 ### 👨‍💻 Moi c'est **RANAIVOSON Nantenaina Claudio** !
 
 Un développeur web passionné et étudiant en 3ème année d'Informatique de Gestion, je suis dédié à la création de solutions numériques innovantes qui transforment les idées en expériences utilisateurs exceptionnelles. Mon parcours m'a permis de maîtriser des technologies modernes comme **HTML**, **CSS**, **JavaScript**, **PHP** et **Python**.

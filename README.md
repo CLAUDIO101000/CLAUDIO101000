@@ -6,7 +6,7 @@ Un développeur web passionné et étudiant en 3ème année d'Informatique de Ge
 
 ---
 
-## 🌐 [Portfolio](https://claudio101000.github.io/portfolio-claudio/)
+## 🌐 Portfolio
 Regarder le [Portfolio](https://claudio101000.github.io/portfolio-claudio/)
 
 ---

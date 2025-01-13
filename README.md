@@ -43,9 +43,9 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
 
 ### **Frameworks et bibliothèques :**
 <p>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="Laravel" width="40" height="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" width="40" height="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/bootstrap.png" alt="Bootstrap" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />

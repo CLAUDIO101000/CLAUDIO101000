@@ -44,7 +44,7 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
 ### **Frameworks et bibliothèques :**
 <p>
   <img src="https://img.icons8.com/ios-filled/laravel.svg" alt="Laravel" width="40" height="40" />
-  <img src="https://img.icons8.com/ios-filled/django.svg" alt="Django" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" alt="Django" width="40" height="40" />
   <img src="https://img.icons8.com/ios-filled/bootstrap.svg" alt="Bootstrap" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" height="40" />

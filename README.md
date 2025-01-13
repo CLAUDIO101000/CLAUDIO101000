@@ -6,8 +6,9 @@
 
 ### 👨‍💻 Moi c'est **RANAIVOSON Nantenaina Claudio** !
 
-Un développeur web passionné et étudiant en 3ème année d'Informatique de Gestion, je suis dédié à la création de solutions numériques innovantes qui transforment les idées en expériences utilisateurs exceptionnelles. Mon parcours m'a permis de maîtriser des technologies modernes comme **HTML**, **CSS**, **JavaScript**, **PHP** et **Python**.
+Bonjour ! Je suis RANAIVOSON Nantenaina Claudio, un développeur passionné par la technologie et l'innovation. Depuis que j'ai découvert le monde de la programmation, j'ai toujours été fasciné par le pouvoir qu'ont les solutions numériques de résoudre des problèmes complexes et de simplifier la vie des utilisateurs.
 
+J'ai acquis des compétences solides en développement web, en travaillant avec des technologies comme HTML, CSS, JavaScript, PHP, et Python, ainsi que des frameworks comme Bootstrap, React, et Django. Mon objectif est de créer des sites web modernes, intuitifs et efficaces qui répondent aux besoins spécifiques de mes clients.
 ---
 
 ## 🌐 Portfolio

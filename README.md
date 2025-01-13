@@ -72,11 +72,11 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
 
 ## 🚀 Projets phares
 
-### 1️⃣ **[Gestion de Congés](https://github.com/CLAUDIO101000/Gestion-des-conges)**
+### 1️⃣ **[CongeSystem](https://github.com/CLAUDIO101000/CongeSystem.git)**
 Un système de gestion des congés développé en **PHP** avec une architecture **MVC**, permettant de gérer les demandes de congé en entreprise tout en respectant les règles (weekends et jours fériés exclus).
 
-### 2️⃣ **[Crédit et Paiement Échelonné](https://github.com/CLAUDIO101000/credit-et-paiement-echelonne)**
-Une application **Django** permettant de gérer les crédits accordés aux clients et leurs paiements échelonnés. Le système assure un suivi précis des échéances et des garanties associées.
+### 2️⃣ **[Chatroom](https://github.com/CLAUDIO101000/Chatroom.git)**
+Le projet Chatroom est une application de chat en temps réel construite avec **Node.js**, **Express**, et **Socket.io**. Cette application permet aux utilisateurs de rejoindre une salle de chat avec un nom d'utilisateur et une image de profil optionnelle, d'envoyer des messages et de partager des images en temps réel.
 
 ---
 

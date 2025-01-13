@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Développeur au travail" />
 </p>
 
-### 👨‍💻 Moi c'est **RANAIVOSON Nantenaina Claudio** !
+### 👨‍💻 Bonjour ! Moi c'est **RANAIVOSON Nantenaina Claudio** !
 
-Bonjour ! Je suis RANAIVOSON Nantenaina Claudio, un développeur passionné par la technologie et l'innovation. Depuis que j'ai découvert le monde de la programmation, j'ai toujours été fasciné par le pouvoir qu'ont les solutions numériques de résoudre des problèmes complexes et de simplifier la vie des utilisateurs.
+Un développeur passionné par la technologie et l'innovation. Depuis que j'ai découvert le monde de la programmation, j'ai toujours été fasciné par le pouvoir qu'ont les solutions numériques de résoudre des problèmes complexes et de simplifier la vie des utilisateurs.
 
 J'ai acquis des compétences solides en développement web, en travaillant avec des technologies comme **HTML**, **CSS**, **JavaScript**, **PHP**, et **Python**, ainsi que des frameworks et bibliothèques comme **Bootstrap**, **React**, et **Django**. Mon objectif est de créer des sites web modernes, intuitifs et efficaces qui répondent aux besoins spécifiques de mes clients.
 

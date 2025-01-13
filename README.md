@@ -8,7 +8,7 @@
 
 Bonjour ! Je suis RANAIVOSON Nantenaina Claudio, un développeur passionné par la technologie et l'innovation. Depuis que j'ai découvert le monde de la programmation, j'ai toujours été fasciné par le pouvoir qu'ont les solutions numériques de résoudre des problèmes complexes et de simplifier la vie des utilisateurs.
 
-J'ai acquis des compétences solides en développement web, en travaillant avec des technologies comme HTML, CSS, JavaScript, PHP, et Python, ainsi que des frameworks comme Bootstrap, React, et Django. Mon objectif est de créer des sites web modernes, intuitifs et efficaces qui répondent aux besoins spécifiques de mes clients.
+J'ai acquis des compétences solides en développement web, en travaillant avec des technologies comme **HTML**, **CSS**, **JavaScript**, **PHP**, et **Python**, ainsi que des frameworks et bibliothèques comme **Bootstrap**, **React**, et **Django**. Mon objectif est de créer des sites web modernes, intuitifs et efficaces qui répondent aux besoins spécifiques de mes clients.
 
 ---
 
@@ -19,8 +19,8 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
 
 ## 🎓 Formation
 
-- **2023 - Présent :** En cours de Licence Professionnelle en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO), Ampasamadinika
-- **2020 - 2021 :** Baccalauréat série C - Obtenu à Institution Sainte Famille (La Salle), Mahamasina
+- **2023 - Présent :** En cours de Licence Professionnelle en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO), Ampasamadinika  
+- **2020 - 2021 :** Baccalauréat série C - Obtenu à Institution Sainte Famille (La Salle), Mahamasina  
 
 ---
 
@@ -30,6 +30,7 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40" />
 </p>
 
 ### **Développement Web :**
@@ -37,14 +38,19 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" />
 </p>
 
-### **Frameworks :**
+### **Frameworks et bibliothèques :**
 <p>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
 </p>
 
 ### **Base de données :**
@@ -82,8 +88,8 @@ Le projet Chatroom est une application de chat en temps réel construite avec **
 
 ## 📫 Contact
 
-- 📧 Email : [ranaivosonclaudio@gmail.com](mailto:ranaivosonclaudio@gmail.com)
-- 📱 Téléphone : [+261324337246](tel:+261324337246)
+- 📧 Email : [ranaivosonclaudio@gmail.com](mailto:ranaivosonclaudio@gmail.com)  
+- 📱 Téléphone : [+261324337246](tel:+261324337246)  
 
 ---
 

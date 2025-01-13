@@ -43,9 +43,9 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
 
 ### **Frameworks et bibliothèques :**
 <p>
-  <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="Laravel" width="40" height="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" width="40" height="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/bootstrap.png" alt="Bootstrap" width="40" height="40" />
+  <img src="https://img.icons8.com/ios-filled/50/FF2D20/laravel.png" alt="Laravel" width="40" height="40" />
+  <img src="https://img.icons8.com/ios-filled/50/092E20/django.png" alt="Django" width="40" height="40" />
+  <img src="https://img.icons8.com/ios-filled/50/7952B3/bootstrap.png" alt="Bootstrap" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />

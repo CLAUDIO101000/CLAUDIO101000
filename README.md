@@ -9,6 +9,7 @@
 Bonjour ! Je suis RANAIVOSON Nantenaina Claudio, un développeur passionné par la technologie et l'innovation. Depuis que j'ai découvert le monde de la programmation, j'ai toujours été fasciné par le pouvoir qu'ont les solutions numériques de résoudre des problèmes complexes et de simplifier la vie des utilisateurs.
 
 J'ai acquis des compétences solides en développement web, en travaillant avec des technologies comme HTML, CSS, JavaScript, PHP, et Python, ainsi que des frameworks comme Bootstrap, React, et Django. Mon objectif est de créer des sites web modernes, intuitifs et efficaces qui répondent aux besoins spécifiques de mes clients.
+
 ---
 
 ## 🌐 Portfolio
@@ -18,9 +19,8 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
 
 ## 🎓 Formation
 
-- **2023 - Présent :** En cours de Licence Professionnelle en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO)
-- **2022 - 2023 :** 2ème année en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO)
-- **2021 - 2022 :** 1ère année en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO)
+- **2023 - Présent :** En cours de Licence Professionnelle en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO), Ampasamadinika
+- **2020 - 2021 :** Baccalauréat série C - Obtenu à Institution Sainte Famille (La Salle), Mahamasina
 
 ---
 
@@ -30,8 +30,6 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40" />
 </p>
 
 ### **Développement Web :**
@@ -40,7 +38,6 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
 </p>
 
 ### **Frameworks :**

@@ -19,7 +19,7 @@ Regarder le [Portfolio](https://claudio101000.github.io/Portfolio-Claudio/)
 
 ## 🎓 Formation
 
-- **2023 - Présent :** En cours de Licence Professionnelle en Informatique de Gestion à l'Institut Supérieur d'Informatique (IS-INFO), Ampasamadinika  
+- **2023 - Présent :** Licence Professionnelle en Informatique de Gestion - Obtenu à l'Institut Supérieur d'Informatique (IS-INFO), Ampasamadinika  
 - **2020 - 2021 :** Baccalauréat série C - Obtenu à Institution Sainte Famille (La Salle), Mahamasina  
 
 ---
